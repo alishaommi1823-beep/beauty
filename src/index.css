@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-sans bg-[#FFF8FA] text-stone-800 antialiased;
+    background-image: 
+      radial-gradient(at 0% 0%, rgba(254, 205, 215, 0.25) 0px, transparent 50%),
+      radial-gradient(at 100% 10%, rgba(253, 175, 196, 0.2) 0px, transparent 50%),
+      radial-gradient(at 50% 100%, rgba(254, 226, 235, 0.3) 0px, transparent 50%);
+    background-attachment: fixed;
+  }
+  
+  h1, h2, h3, h4 {
+    @apply font-serif tracking-tight text-stone-900;
+  }
+}

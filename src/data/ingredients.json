@@ -1,0 +1,278 @@
+[
+  {
+    "id": "ing-001",
+    "canonicalName": "Aqua",
+    "aliases": ["Water", "Eau", "Deionized Water", "Purified Water"],
+    "commonFunction": "Solvent & Base",
+    "plainLanguageExplanation": "Serves as the liquid base that dissolves other ingredients and helps create the product texture.",
+    "sensitivityNotes": "Well tolerated by almost all skin types. Essential for hydrating formulas.",
+    "evidenceOrReference": "Cosmetic Ingredient Review (CIR) Safety Assessment",
+    "reviewStatus": "reviewed",
+    "category": "other"
+  },
+  {
+    "id": "ing-002",
+    "canonicalName": "Glycerin",
+    "aliases": ["Glycerine", "Glycerol"],
+    "commonFunction": "Humectant",
+    "plainLanguageExplanation": "Attracts water molecules into the outer layer of skin, helping maintain essential hydration.",
+    "sensitivityNotes": "Extremely low irritation potential; suitable for sensitive and compromised skin barriers.",
+    "evidenceOrReference": "CIR Safety Assessment; Journal of Dermatological Science 2008",
+    "reviewStatus": "reviewed",
+    "category": "hydrator"
+  },
+  {
+    "id": "ing-003",
+    "canonicalName": "Niacinamide",
+    "aliases": ["Nicotinamide", "Vitamin B3"],
+    "commonFunction": "Skin Conditioning & Barrier Support",
+    "plainLanguageExplanation": "A multi-tasking vitamin that helps improve the skin barrier, even skin tone, and balance oil production.",
+    "sensitivityNotes": "Usually very gentle, though temporary flushing or mild tingling can occur at higher concentrations (above 5-10%).",
+    "evidenceOrReference": "Dermatologic Surgery 2005; British Journal of Dermatology",
+    "reviewStatus": "reviewed",
+    "category": "soothing"
+  },
+  {
+    "id": "ing-004",
+    "canonicalName": "Sodium Hyaluronate",
+    "aliases": ["Hyaluronic Acid", "Hydrolyzed Hyaluronic Acid", "Sodium Acetylated Hyaluronate"],
+    "commonFunction": "Humectant & Skin Conditioning",
+    "plainLanguageExplanation": "A salt form of hyaluronic acid that binds water to keep the skin surface supple and plump.",
+    "sensitivityNotes": "Rarely causes irritation. Functions best in formulas balanced with occlusives or emollients.",
+    "evidenceOrReference": "International Journal of Toxicology 2009",
+    "reviewStatus": "reviewed",
+    "category": "hydrator"
+  },
+  {
+    "id": "ing-005",
+    "canonicalName": "Ceramide NP",
+    "aliases": ["Ceramide 3", "N-Stearoyl Phytosphingosine"],
+    "commonFunction": "Skin-Identical Lipid & Barrier Repair",
+    "plainLanguageExplanation": "Naturally occurring lipid that reinforces the skin's lipid matrix, reducing moisture loss.",
+    "sensitivityNotes": "Biocompatible with natural skin barrier; low risk of irritation or sensitivity.",
+    "evidenceOrReference": "Skin Pharmacology and Physiology 2008; CIR Assessment",
+    "reviewStatus": "reviewed",
+    "category": "emollient"
+  },
+  {
+    "id": "ing-006",
+    "canonicalName": "Centella Asiatica Extract",
+    "aliases": ["Cica", "Gotu Kola", "Tiger Grass", "Madecassoside"],
+    "commonFunction": "Soothing & Antioxidant",
+    "plainLanguageExplanation": "A botanical herb traditionally used to calm visible redness, irritation, and stressed skin.",
+    "sensitivityNotes": "Generally mild and well-tolerated; botanical extracts can rarely cause contact allergy in sensitized individuals.",
+    "evidenceOrReference": "Phytomedicine Journal 2012; Indian Journal of Dermatology",
+    "reviewStatus": "reviewed",
+    "category": "soothing"
+  },
+  {
+    "id": "ing-007",
+    "canonicalName": "Panthenol",
+    "aliases": ["Pro-Vitamin B5", "Dexpanthenol", "Pantothenyl Alcohol"],
+    "commonFunction": "Soothing & Humectant",
+    "plainLanguageExplanation": "Converts to pantothenic acid in the skin to aid barrier restoration, soothe irritation, and improve elasticity.",
+    "sensitivityNotes": "Low irritation profile; widely used in after-sun and post-treatment formulas.",
+    "evidenceOrReference": "Journal of Cosmetic Science 2011; CIR Safety Assessment",
+    "reviewStatus": "reviewed",
+    "category": "soothing"
+  },
+  {
+    "id": "ing-008",
+    "canonicalName": "Allantoin",
+    "aliases": ["5-Ureidohydantoin", "Glyoxyldiureide"],
+    "commonFunction": "Skin Protectant & Soothing",
+    "plainLanguageExplanation": "Soothes skin discomfort, supports cellular turnover gently, and softens rough texture.",
+    "sensitivityNotes": "Recognized by FDA as an OTC skin protectant; exceptionally gentle on irritated skin.",
+    "evidenceOrReference": "FDA OTC Skin Protectant Monograph; CIR Final Report",
+    "reviewStatus": "reviewed",
+    "category": "soothing"
+  },
+  {
+    "id": "ing-009",
+    "canonicalName": "Salicylic Acid",
+    "aliases": ["BHA", "Beta Hydroxy Acid", "2-Hydroxybenzoic Acid"],
+    "commonFunction": "Chemical Exfoliant & Clarifying",
+    "plainLanguageExplanation": "An oil-soluble acid that penetrates pores to loosen dead skin cells and clear trapped sebum.",
+    "sensitivityNotes": "Can cause mild stinging, dryness, or peeling, especially when first introduced. Avoid if allergic to salicylates/aspirin.",
+    "evidenceOrReference": "Journal of Clinical and Aesthetic Dermatology 2010; CIR Assessment",
+    "reviewStatus": "reviewed",
+    "category": "exfoliant"
+  },
+  {
+    "id": "ing-010",
+    "canonicalName": "Glycolic Acid",
+    "aliases": ["Hydroxyacetic Acid", "AHA"],
+    "commonFunction": "Chemical Exfoliant",
+    "plainLanguageExplanation": "A small-molecule alpha hydroxy acid that gently loosens surface dead skin cells to reveal smoother skin.",
+    "sensitivityNotes": "Increases skin sensitivity to sunlight (requires daily sunscreen). May sting sensitive or damaged skin.",
+    "evidenceOrReference": "CIR Safety Assessment 1998; FDA Guidance on AHAs",
+    "reviewStatus": "reviewed",
+    "category": "exfoliant"
+  },
+  {
+    "id": "ing-011",
+    "canonicalName": "Ascorbic Acid",
+    "aliases": ["L-Ascorbic Acid", "Vitamin C"],
+    "commonFunction": "Antioxidant & Brightening",
+    "plainLanguageExplanation": "Potent antioxidant that shields against environmental free radicals and helps fade dark spots.",
+    "sensitivityNotes": "Requires an acidic pH (below 3.5) for stability in pure form, which can cause tingling or redness on sensitive skin.",
+    "evidenceOrReference": "Dermatologic Surgery 2008; Journal of Investigative Dermatology",
+    "reviewStatus": "reviewed",
+    "category": "antioxidant"
+  },
+  {
+    "id": "ing-012",
+    "canonicalName": "Tocopherol",
+    "aliases": ["Vitamin E", "Tocopheryl Acetate", "DL-Alpha-Tocopherol"],
+    "commonFunction": "Antioxidant & Conditioning",
+    "plainLanguageExplanation": "Lipid-soluble antioxidant that protects product oils from oxidation and conditions the skin surface.",
+    "sensitivityNotes": "Widely tolerated, though pure tocopheryl acetate can occasionally trigger allergic contact dermatitis in rare cases.",
+    "evidenceOrReference": "CIR Safety Assessment 2018",
+    "reviewStatus": "reviewed",
+    "category": "antioxidant"
+  },
+  {
+    "id": "ing-013",
+    "canonicalName": "Squalane",
+    "aliases": ["Hydrogenated Squalene", "Plant-derived Squalane"],
+    "commonFunction": "Emollient",
+    "plainLanguageExplanation": "A lightweight, stable oil that mimics natural skin sebum to seal in moisture without a heavy feel.",
+    "sensitivityNotes": "Very low comedogenicity and high skin compatibility across dry, combination, and oily skin.",
+    "evidenceOrReference": "CIR Safety Assessment; International Journal of Cosmetic Science 2012",
+    "reviewStatus": "reviewed",
+    "category": "emollient"
+  },
+  {
+    "id": "ing-014",
+    "canonicalName": "Dimethicone",
+    "aliases": ["Polydimethylsiloxane", "Silicone Oil"],
+    "commonFunction": "Emollient & Skin Protectant",
+    "plainLanguageExplanation": "A breathable silicone that gives products a silky slip and forms a protective moisture seal.",
+    "sensitivityNotes": "Hypoallergenic and non-comedogenic in tested cosmetic concentrations.",
+    "evidenceOrReference": "CIR Safety Assessment 2003; FDA Skin Protectant Monograph",
+    "reviewStatus": "reviewed",
+    "category": "emollient"
+  },
+  {
+    "id": "ing-015",
+    "canonicalName": "Butylene Glycol",
+    "aliases": ["1,3-Butanediol"],
+    "commonFunction": "Solvent, Humectant & Slip Agent",
+    "plainLanguageExplanation": "Helps dissolve active ingredients, adds slip to lotions, and draws moisture into the skin.",
+    "sensitivityNotes": "One of the mildest glycols with a very low track record of contact allergy.",
+    "evidenceOrReference": "CIR Safety Assessment 2018",
+    "reviewStatus": "reviewed",
+    "category": "hydrator"
+  },
+  {
+    "id": "ing-016",
+    "canonicalName": "Phenoxyethanol",
+    "aliases": ["2-Phenoxyethanol", "Ethylene Glycol Monophenyl Ether"],
+    "commonFunction": "Preservative",
+    "plainLanguageExplanation": "Prevents microbial growth, mold, and bacterial contamination, keeping the product safe to use over time.",
+    "sensitivityNotes": "Safely regulated up to 1% in cosmetics. Sensitization is rare in the general adult population.",
+    "evidenceOrReference": "Scientific Committee on Consumer Safety (SCCS) 2016; CIR Assessment",
+    "reviewStatus": "reviewed",
+    "category": "preservative"
+  },
+  {
+    "id": "ing-017",
+    "canonicalName": "Ethylhexylglycerin",
+    "aliases": ["Octoxyglycerin"],
+    "commonFunction": "Preservative Booster & Emollient",
+    "plainLanguageExplanation": "Enhances the efficacy of preservatives while conditioning skin and softening the texture.",
+    "sensitivityNotes": "Occasionally associated with rare contact allergic reactions; generally well tolerated.",
+    "evidenceOrReference": "CIR Safety Assessment 2011",
+    "reviewStatus": "reviewed",
+    "category": "preservative"
+  },
+  {
+    "id": "ing-018",
+    "canonicalName": "Xanthan Gum",
+    "aliases": ["Corn Sugar Gum"],
+    "commonFunction": "Thickener & Stabilizer",
+    "plainLanguageExplanation": "A natural polysaccharide that thickens gels and emulsions, keeping ingredients uniformly mixed.",
+    "sensitivityNotes": "Inert and non-sensitizing on human skin.",
+    "evidenceOrReference": "CIR Safety Assessment 2016",
+    "reviewStatus": "reviewed",
+    "category": "other"
+  },
+  {
+    "id": "ing-019",
+    "canonicalName": "Zinc Oxide",
+    "aliases": ["CI 77947", "Zinc White"],
+    "commonFunction": "Mineral UV Filter & Soothing Agent",
+    "plainLanguageExplanation": "Reflects and scatters UVA and UVB rays, providing physical broad-spectrum sun protection.",
+    "sensitivityNotes": "Ideal for sensitive, acne-prone, and rosacea-prone skin; also has gentle astringent properties.",
+    "evidenceOrReference": "FDA Sunscreen Final Monograph; SCCS Opinion 2012",
+    "reviewStatus": "reviewed",
+    "category": "other"
+  },
+  {
+    "id": "ing-020",
+    "canonicalName": "Titanium Dioxide",
+    "aliases": ["CI 77891", "Titania"],
+    "commonFunction": "Mineral UV Filter & Colorant",
+    "plainLanguageExplanation": "Provides physical protection against UV radiation and provides whitening/opacity in formulations.",
+    "sensitivityNotes": "Non-irritating for topical application on intact skin.",
+    "evidenceOrReference": "FDA Sunscreen Monograph; SCCS 2014",
+    "reviewStatus": "reviewed",
+    "category": "other"
+  },
+  {
+    "id": "ing-021",
+    "canonicalName": "Fragrance",
+    "aliases": ["Parfum", "Aroma", "Flavour"],
+    "commonFunction": "Fragrance & Sensory Masking",
+    "plainLanguageExplanation": "Added aromatic blend used to give the cosmetic formula a pleasant scent or mask base odors.",
+    "sensitivityNotes": "One of the most frequent causes of cosmetic contact dermatitis. Those with reactive or allergy-prone skin may prefer fragrance-free options.",
+    "evidenceOrReference": "American Academy of Dermatology (AAD); SCCS Opinion on Fragrance Allergens",
+    "reviewStatus": "reviewed",
+    "category": "fragrance"
+  },
+  {
+    "id": "ing-022",
+    "canonicalName": "Retinol",
+    "aliases": ["Vitamin A", "Retinoid"],
+    "commonFunction": "Cellular Renewal & Anti-Aging",
+    "plainLanguageExplanation": "Prompts cell turnover and supports collagen synthesis to soften fine lines and smooth texture.",
+    "sensitivityNotes": "Commonly causes peeling, dryness, and erythema during initial weeks of use ('retinization'). Requires sun protection.",
+    "evidenceOrReference": "Clinical Interventions in Aging 2006; SCCS 2022",
+    "reviewStatus": "reviewed",
+    "category": "exfoliant"
+  },
+  {
+    "id": "ing-023",
+    "canonicalName": "Camellia Sinensis Leaf Extract",
+    "aliases": ["Green Tea Extract", "Camellia Sinensis Extract", "EGCG"],
+    "commonFunction": "Antioxidant & Soothing",
+    "plainLanguageExplanation": "Rich in polyphenol antioxidants (especially EGCG) that help protect skin from UV-induced oxidative stress.",
+    "sensitivityNotes": "Very low irritation potential; frequently used in soothing and anti-pollution products.",
+    "evidenceOrReference": "Oxidative Medicine and Cellular Longevity 2012; CIR 2019",
+    "reviewStatus": "reviewed",
+    "category": "antioxidant"
+  },
+  {
+    "id": "ing-024",
+    "canonicalName": "Simmondsia Chinensis Seed Oil",
+    "aliases": ["Jojoba Oil", "Jojoba Seed Oil", "Simmondsia Chinensis Oil"],
+    "commonFunction": "Emollient & Plant Oil",
+    "plainLanguageExplanation": "A liquid plant wax with a chemical profile similar to human sebum that softens and moisturizes skin.",
+    "sensitivityNotes": "Non-greasy, gentle, and widely tolerated across varied skin types.",
+    "evidenceOrReference": "CIR Safety Assessment 2008; Journal of Ethnopharmacology",
+    "reviewStatus": "reviewed",
+    "category": "emollient"
+  },
+  {
+    "id": "ing-025",
+    "canonicalName": "Disodium EDTA",
+    "aliases": ["Disodium Ethylenediaminetetraacetate", "EDTA"],
+    "commonFunction": "Chelating Agent",
+    "plainLanguageExplanation": "Binds to trace metal ions in water to prevent formula discoloration, rancidity, and breakdown.",
+    "sensitivityNotes": "Used in very low percentages (<0.2%); low irritation potential in topical use.",
+    "evidenceOrReference": "CIR Final Report on EDTA and its Salts",
+    "reviewStatus": "reviewed",
+    "category": "other"
+  }
+]
+
